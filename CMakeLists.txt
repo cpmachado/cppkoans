@@ -15,6 +15,6 @@ set(cppkoans_SOURCES
 add_subdirectory(koans)
 include_directories(headers)
 
-add_executable(CppKoans
+add_executable(cppkoans
   ${cppkoans_SOURCES}
 )
