@@ -1,4 +1,6 @@
-# CppKoans
+# cppkoans: a maintained fork of [CppKoans]
+
+**Updated version of upstream** [CppKoans]
 
 Inspired by [RubyKoans](https://github.com/edgecase/ruby_koans) and
 [JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans), this is
@@ -71,3 +73,5 @@ After copying and renaming of `~/headers/koanXX_sample_koans.hpp` and
 
 ## Licence
 MIT License Copyright 2012 Torbjörn Klatt - opensource eht torbjoern minus klatt dot de
+
+[CppKoans]: https://github.com/torbjoernk/CppKoans
